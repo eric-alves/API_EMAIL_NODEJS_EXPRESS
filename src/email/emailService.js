@@ -27,7 +27,7 @@ module.exports = {
         
         const emailASerEnviado = {
             from: email,
-            to: 'contato@declatecnologia.com.br',
+            to: 'email@gmail.com.br',
             subject: assunto,
             text: `Enviado por: ${nome}
         
